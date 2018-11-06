@@ -60,5 +60,4 @@ channel.send(` 0823t7gawgaww 50`);
 }, 1500)
 })
  
- 
-client.login("NTA4MjQxNTEwMjA3MDYyMDE3.DsCfrw.2pYvm59u8_fSohgOxl34vYIqXug");
+ client.login(process.env.BOT_TOKEN); 
